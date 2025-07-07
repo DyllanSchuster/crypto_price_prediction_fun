@@ -1,3 +1,4 @@
+
 # Crypto Market Prediction - Kaggle Competition Solution
 
 ## 🎯 Project Overview
@@ -143,3 +144,4 @@ This solution provides a solid foundation for crypto market prediction. Key area
 ---
 
 **Note**: For best results, use the Google Colab notebook which provides access to better computational resources and pre-installed ML libraries.
+
